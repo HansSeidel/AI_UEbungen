@@ -2,3 +2,9 @@
 .ipynb_checkpoints/*
 .ipynb_checkpoints/
 .ipynb_checkpoints/*.*
+
+./*/.ipynb_checkpoints/*
+
+./UE1/.ipynb_checkpoints/*
+./UE1/.ipynb_checkpoints/
+./UE1/.ipynb_checkpoints/*.*
